@@ -99,7 +99,8 @@ if [ "$ZSH_THEME" = "random" ]; then
   ((N=(RANDOM%N)+1))
   RANDOM_THEME=${themes[$N]}
   source "$RANDOM_THEME"
-  echo "[oh-my-zsh] 随机主题 ------- '$RANDOM_THEME' ------- 加载完毕..."
+  echo "[oh-my-zsh] 随机主题"
+  echo "------- '$RANDOM_THEME' ------- 加载完毕..."
   echo "欢迎回来，Cheng33c。"
 else
   if [ ! "$ZSH_THEME" = ""  ]; then

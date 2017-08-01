@@ -1,0 +1,62 @@
+{
+  "configs": [
+    {
+      "method": "none",
+      "password": "O514rksv3C",
+      "remarks": "chain-a美国1",
+      "server": "chain-a.us1.x1g.site",
+      "server_port": 10007
+    },
+    {
+      "method": "none",
+      "password": "O514rksv3C",
+      "remarks": "chain-a美国2",
+      "server": "chain-a.us2.x1g.site",
+      "server_port": 10007
+    },
+    {
+      "method": "none",
+      "password": "O514rksv3C",
+      "remarks": "chain-a日本1",
+      "server": "chain-a.jp1.x1g.site",
+      "server_port": 10007
+    },
+    {
+      "method": "none",
+      "password": "O514rksv3C",
+      "remarks": "128ctr美国3",
+      "server": "128-ctr.us3.x1g.site",
+      "server_port": 10007
+    },
+    {
+      "method": "none",
+      "password": "O514rksv3C",
+      "remarks": "128ctr日本2",
+      "server": "128-ctr.jp2.x1g.site",
+      "server_port": 10007
+    },
+    {
+      "method": "none",
+      "password": "O514rksv3C",
+      "remarks": "128ctr荷兰",
+      "server": "128-ctr.us4.x1g.site",
+      "server_port": 10007
+    },
+    {
+      "method": "none",
+      "password": "O514rksv3C",
+      "remarks": "256cfb美国5",
+      "server": "256-cfb.us5.x1g.site",
+      "server_port": 10007
+    },
+    {
+      "method": "none",
+      "password": "O514rksv3C",
+      "remarks": "SS兼容节点",
+      "server": "old.obfs.x1g.site",
+      "server_port": 10007
+    }
+  ],
+  "localPort": 1080,
+  "shareOverLan": false
+}
